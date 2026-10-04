@@ -1,0 +1,14 @@
+[project]
+name = "time-series-2"
+version = "0.1.0"
+description = "Laboratory work 2: statistical learning for a Steam time series"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13",
+    "matplotlib>=3.10",
+    "numpy>=2.2",
+    "pandas>=2.2",
+    "requests>=2.32",
+    "scikit-learn>=1.6",
+    "scipy>=1.15",
+]
